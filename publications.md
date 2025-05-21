@@ -12,7 +12,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2024
 
-<img src="assets/img/conference-paper.png" height="20px">
+<img src="../assets/img/conference-paper.png" height="20px">
 AAA
 
 
