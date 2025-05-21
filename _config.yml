@@ -21,6 +21,8 @@ author: João Correia
 
 navbar-links:
   About Me: "aboutme"
+  Software: "software"
+  Projects: "projects"
   Publications: "publications"
   Teaching: "teaching"
 
@@ -92,9 +94,9 @@ rss-description: "João Correia's personal website"
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
