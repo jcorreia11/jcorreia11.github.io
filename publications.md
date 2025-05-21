@@ -12,15 +12,15 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2024
 
-<img src="../assets/img/conference-paper.png" height="20px">
+<img src="{{ site.baseurl }}/assets/img/conference-paper.png" height="20px">
 AAA
 
 
-<img src="assets/img/journal-article.png" height="20px">
+<img src="{{ site.baseurl }}/assets/img/journal-article.png" height="20px">
 BBB
 
-<img src="assets/img/conference-poster.png" height="20px">
+<img src="{{ site.baseurl }}/assets/img/conference-poster.png" height="20px">
 CCC
 
-<img src="assets/img/thesis-dissertation.png" height="20px">
+<img src="{{ site.baseurl }}/assets/img/thesis-dissertation.png" height="20px">
 DDD
