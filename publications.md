@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2024
 
-<img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="20px"><img src="{{ site.baseurl }}/assets/img/publications/q1.png" height="20px">
+<img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="20px"><img src="{{ site.baseurl }}/assets/img/publications/q1.png" height="40px">
 **Correia, J.**, Capela, J., & Rocha, M. (2024). **Deepmol: an automated machine and deep learning framework for computational chemistry.** Journal of Cheminformatics, 16(1), 136. [https://doi.org/10.1186/s13321-024-00937-7](https://doi.org/10.1186/s13321-024-00937-7)
 
 ## 2023
