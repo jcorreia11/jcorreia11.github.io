@@ -11,9 +11,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q1.png" height="25px">
 **Correia, J.**, Capela, J., & Rocha, M. (2024). **Deepmol: an automated machine and deep learning framework for computational chemistry.** Journal of Cheminformatics, 16(1), 136. [https://doi.org/10.1186/s13321-024-00937-7](https://doi.org/10.1186/s13321-024-00937-7)
 
-| Source    | Scopus | Web of Science | Google Scholar |
-|-----------|--------|----------------|----------------|
-| Citations | -      | -              | -              |
+| Source    | Scopus                                                         | Web of Science | Google Scholar |
+|-----------|----------------------------------------------------------------|----------------|----------------|
+| Citations | {{ site.data.citations_scopus["10.1186/s13321-024-00937-7"] }} | -              | -              |
 
 ## 2023
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/A.png" height="25px">
