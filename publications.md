@@ -6,7 +6,7 @@ subtitle:
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JhT55LQAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Joao-Correia-70).
 
-Last updated: 24 of May 2025
+Last updated: 24th of May 2025
 
 ## 2024
 
