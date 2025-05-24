@@ -6,6 +6,8 @@ subtitle:
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JhT55LQAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Joao-Correia-70).
 
+Last updated: 24 of May 2025
+
 ## 2024
 
 <img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q1.png" height="25px">
@@ -72,7 +74,7 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q4.png" height="25px">
 **Correia, J.**, Resende, T., Baptista, D., & Rocha, M. (2020). **Artificial intelligence in biological activity prediction.** In Practical Applications of Computational Biology and Bioinformatics, 13th International Conference (pp. 164–172). Springer International Publishing. [https://doi.org/10.1007/978-3-030-23873-5_20](https://doi.org/10.1007/978-3-030-23873-5_20)
 
-| Source    | Scopus | Web of Science | Google Scholar                                                   |
-|-----------|-------|----------------|------------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | -              | { site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
+| Source    | Scopus | Web of Science | Google Scholar                                                    |
+|-----------|-------|----------------|-------------------------------------------------------------------|
+| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | -              | {{ site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
 
