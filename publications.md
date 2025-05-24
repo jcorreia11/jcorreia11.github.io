@@ -37,5 +37,5 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021b). **Generative Deep 
 Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-objective evolutionary algorithms with deep generative models towards focused molecular design.** In Lecture Notes in Computer Science (pp. 81–96). Springer International Publishing. [https://doi.org/10.1007/978-3-030-72699-7_6](https://doi.org/10.1007/978-3-030-72699-7_6)
 
 ## 2019
-<img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/National.png" height="25px">
+<img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q4.png" height="25px">
 **Correia, J.**, Resende, T., Baptista, D., & Rocha, M. (2020). **Artificial intelligence in biological activity prediction.** In Practical Applications of Computational Biology and Bioinformatics, 13th International Conference (pp. 164–172). Springer International Publishing. [https://doi.org/10.1007/978-3-030-23873-5_20](https://doi.org/10.1007/978-3-030-23873-5_20)
