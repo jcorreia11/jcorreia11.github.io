@@ -75,3 +75,4 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-
 | Source    | Scopus | Web of Science | Google Scholar                                                   |
 |-----------|-------|----------------|------------------------------------------------------------------|
 | Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | -              | { site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
+
