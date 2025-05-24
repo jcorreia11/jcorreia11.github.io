@@ -6,6 +6,14 @@ subtitle:
 
 ...
 
-### Something
+## StartUp Co-Founder
+
+...
+
+## Education
+
+...
+
+## Professional Experience
 
 ...
