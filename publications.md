@@ -15,7 +15,7 @@ Last updated: 24th of May 2025
 
 | Source    | Scopus                                                         | Web of Science | Google Scholar                                                  |
 |-----------|----------------------------------------------------------------|----------------|-----------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1186/s13321-024-00937-7"] }} | -              | {{ site.data.citations_scholar["10.1186/s13321-024-00937-7"] }} |
+| Citations | {{ site.data.citations_scopus["10.1186/s13321-024-00937-7"] }} | 4              | {{ site.data.citations_scholar["10.1186/s13321-024-00937-7"] }} |
 
 ## 2023
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/A.png" height="25px">
@@ -23,7 +23,7 @@ Last updated: 24th of May 2025
 
 | Source    | Scopus | Web of Science | Google Scholar                                                |
 |-----------|------|----------------|---------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1145/3583131.3590413"] }}     | -              | {{ site.data.citations_scholar["10.1145/3583131.3590413"] }} |
+| Citations | {{ site.data.citations_scopus["10.1145/3583131.3590413"] }}     | 0              | {{ site.data.citations_scholar["10.1145/3583131.3590413"] }} |
 
 ## 2022
 <img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q2.png" height="25px">
@@ -31,28 +31,28 @@ Baptista, D., **Correia, J.**, Pereira, B., & Rocha, M. (2022b). **Evaluating mo
 
 | Source    | Scopus | Web of Science | Google Scholar                                             |
 |-----------|-------|----------------|------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1515/jib-2022-0006"] }}      | -              | {{ site.data.citations_scholar["10.1515/jib-2022-0006"] }} |
+| Citations | {{ site.data.citations_scopus["10.1515/jib-2022-0006"] }}      | 18             | {{ site.data.citations_scholar["10.1515/jib-2022-0006"] }} |
 
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q3.png" height="25px">
 **Correia, J.**, Carreira, R., Pereira, V., & Rocha, M. (2022). **Predicting the number of biochemical transformations needed to synthesize a compound.** 2022 International Joint Conference on Neural Networks (IJCNN), 1–8. [https://doi.org/10.1109/IJCNN55064.2022.9892124](https://doi.org/10.1109/IJCNN55064.2022.9892124)
 
 | Source    | Scopus | Web of Science | Google Scholar                                                       |
 |-----------|-------|----------------|----------------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1109/IJCNN55064.2022.9892124"] }}      | -              | {{ site.data.citations_scholar["10.1109/IJCNN55064.2022.9892124"] }} |
+| Citations | {{ site.data.citations_scopus["10.1109/IJCNN55064.2022.9892124"] }}      | 1              | {{ site.data.citations_scholar["10.1109/IJCNN55064.2022.9892124"] }} |
 
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q3.png" height="25px">
 Capela, J., **Correia, J.**, Pereira, V., & Rocha, M. (2022). **Development of Deep Learning approaches to predict relationships between chemical structures and sweetness.** 2022 International Joint Conference on Neural Networks (IJCNN), 1–8. [https://doi.org/10.1109/IJCNN55064.2022.9891992](https://doi.org/10.1109/IJCNN55064.2022.9891992)
 
 | Source    | Scopus | Web of Science | Google Scholar                                                       |
 |-----------|-------|----------------|----------------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1109/IJCNN55064.2022.9891992"] }}      | -              | {{ site.data.citations_scholar["10.1109/IJCNN55064.2022.9891992"] }} |
+| Citations | {{ site.data.citations_scopus["10.1109/IJCNN55064.2022.9891992"] }}      | 3              | {{ site.data.citations_scholar["10.1109/IJCNN55064.2022.9891992"] }} |
 
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q4.png" height="25px">
 Baptista, D., **Correia, J.**, Pereira, B., & Rocha, M. (2022). **A comparison of different compound representations for drug sensitivity prediction.** In Practical Applications of Computational Biology & Bioinformatics, 15th International Conference (PACBB 2021) (pp. 145–154). Springer International Publishing. [https://doi.org/10.1007/978-3-030-86258-9_15](https://doi.org/10.1007/978-3-030-86258-9_15)
 
 | Source    | Scopus | Web of Science | Google Scholar |
 |-----------|-------|----------------|---------------|
-| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-86258-9_15"] }}      | -              | {{ site.data.citations_scopus["10.1007/978-3-030-86258-9_15"] }}               |
+| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-86258-9_15"] }}      | 1              | {{ site.data.citations_scopus["10.1007/978-3-030-86258-9_15"] }}               |
 
 
 ## 2021
@@ -61,14 +61,14 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021b). **Generative Deep 
 
 | Source    | Scopus | Web of Science | Google Scholar                                                |
 |-----------|-------|----------------|---------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1021/acs.jcim.0c01496"] }}      | -              | {{ site.data.citations_scholar["10.1021/acs.jcim.0c01496"] }} |
+| Citations | {{ site.data.citations_scopus["10.1021/acs.jcim.0c01496"] }}      | 91             | {{ site.data.citations_scholar["10.1021/acs.jcim.0c01496"] }} |
 
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp; <img src="{{ site.baseurl }}/assets/img/publications/q3.png" height="25px">
 Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-objective evolutionary algorithms with deep generative models towards focused molecular design.** In Lecture Notes in Computer Science (pp. 81–96). Springer International Publishing. [https://doi.org/10.1007/978-3-030-72699-7_6](https://doi.org/10.1007/978-3-030-72699-7_6)
 
 | Source    | Scopus | Web of Science | Google Scholar                                                   |
 |-----------|-------|----------------|------------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-72699-7_6"] }}      | -              | {{ site.data.citations_scholar["10.1007/978-3-030-72699-7_6"] }} |
+| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-72699-7_6"] }}      | 5              | {{ site.data.citations_scholar["10.1007/978-3-030-72699-7_6"] }} |
 
 ## 2019
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q4.png" height="25px">
@@ -76,5 +76,5 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-
 
 | Source    | Scopus | Web of Science | Google Scholar                                                    |
 |-----------|-------|----------------|-------------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | -              | {{ site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
+| Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | 4              | {{ site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
 
