@@ -1,6 +1,5 @@
-from scholarly import scholarly
+from scholarly import scholarly#, ProxyGenerator
 import json
-
 
 def get_scholar_citations():
     """
@@ -8,12 +7,15 @@ def get_scholar_citations():
     The JSON file should contain a mapping of paper titles to DOIs.
     The results are saved in a new JSON file with the DOI as the key and citation count as the value.
     """
+    # pg = ProxyGenerator()
+    # pg.FreeProxies()
+    # scholarly.use_proxy(pg, pg)
+
     # read json file containing the DOIs
     file = 'papers.json'
     with open(file, 'r') as f:
         data = json.load(f)
 
-    citations = []
     doi_to_citations = {}
     # Loop through each paper in the JSON data
     for paper, doi in data.items():
