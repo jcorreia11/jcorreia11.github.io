@@ -4,9 +4,45 @@ title: Projects
 subtitle: Here you can find some of the projects I have been involved in.
 ---
 <!--
-### 1. IngredientIA - ...
+### 1. IngredientIA - Artificial Intelligence for the Reformulation of Food Products
 
-### 2. CibusAI - ...
+%Duration: 01/09/2025 - 01/09/2028 (?) [STARTING SOON]
+
+%Role: Writing the project proposal, Researcher
+
+%Partners: OmniumAI Lda, University of Minho, NIUM Lda, INL
+
+%Funding Entity: Portugal 2030 - Fundo Europeu de Desenvolvimento Regional (FEDER)
+
+%Funding: €1.718.561,18 / €1.382.482,14
+
+%Coodinator: OmniumAI Lda
+
+%Fields of Study: Artificial Intelligence, Food Science, Metabolism
+
+%Highlights:
+  - ...
+
+### 2. CibusAI - Artificial Intelligence for the Reformulation of Food Products
+
+%Duration: 01/07/2025 - 29/06/2028 [ONGOING]
+
+%Role: Writing the project proposal, Researcher
+
+%Partners: OmniumAI Lda, University of Minho
+
+%Funding Entity: Portugal 2030 - Fundo Europeu de Desenvolvimento Regional (FEDER)
+
+%Funding: €787.344,80 / €955.539,20
+
+%Coodinator: OmniumAI Lda
+
+%Fields of Study: Artificial Intelligence, Food Science, Reformulation of Food Products
+
+%Highlights:
+  - ...
+
+%
 -->
 
 ### 1. NEURONET - iNtelligent Energy Usage-awaRe platfOrm sustaiNable grEen neTworking
@@ -41,7 +77,7 @@ subtitle: Here you can find some of the projects I have been involved in.
 
 - Duration: 01/01/2019 - 30/06/2023
 - DOI: [10.3030/814408](https://cordis.europa.eu/project/id/814408)
-- Roles: Research Fellow (02/2019 - 01/2020)
+- Roles: Researcher (Research Fellow - 02/2019 - 01/2020)
 - Fields of Study: Synthetic Biology, Systems Biology, Cheminformatics
 - Partners: 6 research partners, 4 biotech SMEs, 1 industrial company
 - Project Website: [https://www.shikifactory100.eu/](https://www.shikifactory100.eu/)
@@ -56,7 +92,7 @@ subtitle: Here you can find some of the projects I have been involved in.
 
 - Duration: 01/02/2020 - 31/03/2024
 - DOI: [10.54499/SFRH/BD/144314/2019](https://doi.org/10.54499/SFRH/BD/144314/2019)
-- Roles: Writing the project proposal, Ph.D. Student
+- Roles: Writing the project proposal, Researcher (Ph.D. Student)
 - Fields of Study: Artificial Intelligence, Cheminformatics, Bioinformatics
 - Partners: University of Minho, SilicoLife Lda
 - Funding Entity: Fundação para a Ciência e Tecnologia (FCT) - Portugal
