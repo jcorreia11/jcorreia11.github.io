@@ -1,7 +1,12 @@
+import os
+
+from dotenv import load_dotenv
 import requests
 
+load_dotenv()
+
 # Clarivate API key and endpoint
-api_key = '6c1954cd896fca1f8b621c1e5368cd7594ec4b67'
+api_key = os.getenv("CLARIVATE_API_KEY")
 doi = '10.1186/s13321-024-00937-7'
 url = f'https://api.clarivate.com/apis/wos-starter/v1/documents?q={doi}'
 
