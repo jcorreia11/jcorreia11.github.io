@@ -28,6 +28,10 @@ OmniumAI is focused on developing AI solutions for the life sciences, particular
 - Research Collaborator at BISBI Group, Centre of Biological Engineering, University of Minho (02/2019 - 12/2024)
 - Research Collaborator at EvoBiomed Group, Life and Health Sciences Research Institute (ICVS), University of Minho (09/2017 - 12/2018)
 
+### Appointments
+
+- [Member of the Coordination Committee for the B.Sc. in Applied Data Science](assets/files/LCDA_%20Nomeação_Comissão_de_Coordenacao.pdf) - Catholic University of Portugal in Braga (03/2025 - Present)
+
 ### Industry Experience
 
 - Head of Cheminformatics Development at OmniumAI (05/2024 - Present)
