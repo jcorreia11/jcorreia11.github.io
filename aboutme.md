@@ -33,20 +33,24 @@ OmniumAI is focused on developing AI solutions for the life sciences, particular
 
 ## Education
 
-- Ph.D. in Informatics, University of Minho (2020-2024) - 
+- **Ph.D. in Informatics, University of Minho (2020-2024)**
   - Thesis Title: [DeepRetro: a computational framework for retrosythesis and pathway design towards optimizing compound bioproduction](https://repositorium.sdum.uminho.pt/handle/1822/94654)
-  - Field of Study: Artificial Intelligence, Cheminformatics, Bioinformatics
-  - Classification: Unanimously Approved with "Very Good" (highest classification)
-  - Supervisors: 
-    - Prof. Dr. Miguel Rocha, University of Minho
-    - Dr. Vítor Pereira, University of Minho
-    - Dr. Rafael Carreira, SilicoLife
-  - Jury Members:
-    - Prof. Dr. Sara Madeira, Faculty of Sciences of the University of Lisbon
-    - Prof. Dr. Pablo Carbonell, Universitat Politècnica de València
-    - Dr. Óscar Dias, University of Minho
+    - Field of Study: Artificial Intelligence, Cheminformatics, Bioinformatics
+    - Grade: **Unanimously Approved with "Very Good" (highest classification)**
+    - Supervisors: 
+      - Prof. Dr. Miguel Rocha, University of Minho
+      - Dr. Vítor Pereira, University of Minho
+      - Dr. Rafael Carreira, SilicoLife
+    - Jury Members:
+      - Prof. Dr. Sara Madeira, Faculty of Sciences of the University of Lisbon
+      - Prof. Dr. Pablo Carbonell, Universitat Politècnica de València
+      - Dr. Óscar Dias, University of Minho
 
-- Master’s in Bioinformatics, University of Minho (2016-2018)
+- **Master’s in Bioinformatics, University of Minho (2016-2018)**
+  - Grade: **18/20**
   - Thesis Title: [HIV-TB-Host protein interaction network](https://repositorium.uminho.pt/handle/1822/79842)
-  - Field of Study: Bioinformatics, Systems Biology
-  - Classification: 19/20
+    - Field of Study: Bioinformatics, Systems Biology
+    - Grade: **19/20**
+
+- **Bachelor’s in Bioengineering, University of Trás-os-Montes e Alto Douro (2012-2016)**
+  - Grade: **15/20**
