@@ -152,7 +152,7 @@ page-col: "#F9F9F9"  # Light grayish background for a softer appearance
 text-col: "#333333"   # Darker text for better readability
 link-col: "#1A73E8"   # Soft blue for links, more modern and appealing
 hover-col: "#0A57D2"  # Slightly darker blue on hover for better contrast
-navbar-col: "#343A40" # Darker navbar for a professional and sleek look
+#navbar-col: "#343A40" # Darker navbar for a professional and sleek look
 navbar-text-col: "#FFFFFF" # White text on navbar for good contrast
 navbar-border-col: "#495057" # Subtle border for the navbar
 footer-col: "#343A40" # Dark footer for balance
@@ -164,7 +164,7 @@ footer-hover-col: "#0A57D2" # Darker blue hover effect for footer links
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/background_image.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
