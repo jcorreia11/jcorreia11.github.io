@@ -148,7 +148,7 @@ navbar-var-length: false
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 
-page-col: "#F9F9F9"  # Light grayish background for a softer appearance
+#page-col: "#F9F9F9"  # Light grayish background for a softer appearance
 text-col: "#333333"   # Darker text for better readability
 link-col: "#1A73E8"   # Soft blue for links, more modern and appealing
 hover-col: "#0A57D2"  # Slightly darker blue on hover for better contrast
