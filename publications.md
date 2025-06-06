@@ -6,7 +6,7 @@ subtitle:
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JhT55LQAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Joao-Correia-70).
 
-Last updated: 24th of May 2025
+Last updated: 6th of June 2025
 
 ## 2024
 
@@ -15,7 +15,7 @@ Last updated: 24th of May 2025
 
 | Source    | Scopus                                                         | Web of Science | Google Scholar                                                  |
 |-----------|----------------------------------------------------------------|----------------|-----------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1186/s13321-024-00937-7"] }} | 4              | {{ site.data.citations_scholar["10.1186/s13321-024-00937-7"] }} |
+| Citations | {{ site.data.citations_scopus["10.1186/s13321-024-00937-7"] }} | 5              | {{ site.data.citations_scholar["10.1186/s13321-024-00937-7"] }} |
 
 ## 2023
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/A.png" height="25px">
@@ -61,7 +61,7 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021b). **Generative Deep 
 
 | Source    | Scopus | Web of Science | Google Scholar                                                |
 |-----------|-------|----------------|---------------------------------------------------------------|
-| Citations | {{ site.data.citations_scopus["10.1021/acs.jcim.0c01496"] }}      | 91             | {{ site.data.citations_scholar["10.1021/acs.jcim.0c01496"] }} |
+| Citations | {{ site.data.citations_scopus["10.1021/acs.jcim.0c01496"] }}      | 93             | {{ site.data.citations_scholar["10.1021/acs.jcim.0c01496"] }} |
 
 <img src="{{ site.baseurl }}/assets/img/publications/conference-paper.png" height="25px">&nbsp; <img src="{{ site.baseurl }}/assets/img/publications/q3.png" height="25px">
 Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-objective evolutionary algorithms with deep generative models towards focused molecular design.** In Lecture Notes in Computer Science (pp. 81–96). Springer International Publishing. [https://doi.org/10.1007/978-3-030-72699-7_6](https://doi.org/10.1007/978-3-030-72699-7_6)
