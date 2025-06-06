@@ -21,10 +21,12 @@ OmniumAI is focused on developing AI solutions for the life sciences, particular
 - Invited Assistant at Catholic University of Portugal in Braga (02/2024 - 12/2024)
 - Invited Assistant at University of Minho (09/2023 - 03/2024)
 
-### Research Experience
+### Research Positions
 
 - Visiting Researcher at EMBL, Heidelberg, Germany (10/2022 - 11/2022)
-- Researcher at the Centre of Biological Engineering, University of Minho (02/2019 - 01/2020)
+- Research Fellow at the Centre of Biological Engineering, University of Minho (02/2019 - 01/2020)
+- Research Collaborator at the Centre of Biological Engineering, University of Minho (02/2019 - 12/2024)
+- Research Collaborator at EvoBiomed Group, Life and Health Sciences Research Institute (ICVS), University of Minho (09/2017 - 12/2018)
 
 ### Industry Experience
 
