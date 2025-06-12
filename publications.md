@@ -26,7 +26,7 @@ Last updated: 6th of June 2025
 | Citations | {{ site.data.citations_scopus["10.1145/3583131.3590413"] }}     | 0              | {{ site.data.citations_scholar["10.1145/3583131.3590413"] }} |
 
 ## 2022
-<img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q2.png" height="25px">
+<img src="{{ site.baseurl }}/assets/img/publications/journal-article.png" height="25px">&nbsp;<img src="{{ site.baseurl }}/assets/img/publications/q1.png" height="25px">
 Baptista, D., **Correia, J.**, Pereira, B., & Rocha, M. (2022b). **Evaluating molecular representations in machine learning models for drug response prediction and interpretability.** Journal of Integrative Bioinformatics, 19(3). [https://doi.org/10.1515/jib-2022-0006](https://doi.org/10.1515/jib-2022-0006)
 
 | Source    | Scopus | Web of Science | Google Scholar                                             |
