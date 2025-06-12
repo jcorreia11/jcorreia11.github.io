@@ -58,5 +58,5 @@ OmniumAI is focused on developing AI solutions for the life sciences, particular
     - Field of Study: Bioinformatics, Systems Biology
     - Grade: **19/20**
 
-- **Bachelor’s in Bioengineering, University of Trás-os-Montes e Alto Douro (2012-2016)**
+- **Bachelor’s in Bioengineering, University of Trás-os-Montes e Alto Douro (2013-2016)**
   - Grade: **15/20**
