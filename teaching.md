@@ -14,7 +14,7 @@ Below are the materials that I developed for the courses I have taught (some are
 - Deep Learning 2024/2025 - [Degree in Applied Data Science - UCP-Braga](https://ffcs.braga.ucp.pt/en/undergraduate-courses/programs/degree-applied-data-science)
   - ...
 
-- Technologies of Behaviour Analysis 2024/2025 - [Degree in Applied Data Science - UCP-Braga](https://ffcs.braga.ucp.pt/en/undergraduate-courses/programs/degree-applied-data-science)
+- Behavior Analysis Technologies 2024/2025 - [Degree in Applied Data Science - UCP-Braga](https://ffcs.braga.ucp.pt/en/undergraduate-courses/programs/degree-applied-data-science)
   - ...
 
 - Natural Language Processing (Practical Component) 2024/2025 - [Degree in Applied Data Science - UCP-Braga](https://ffcs.braga.ucp.pt/en/undergraduate-courses/programs/degree-applied-data-science)
@@ -23,7 +23,7 @@ Below are the materials that I developed for the courses I have taught (some are
 - Machine Learning 2023/2024 - [Degree in Applied Data Science - UCP-Braga](https://ffcs.braga.ucp.pt/en/undergraduate-courses/programs/degree-applied-data-science)
   - ...
 
-- Bioinformatics Laboratory 2023/2024 - [Master in Bioinformatics - University of Minho](https://www.uminho.pt/EN/education/educational-offer/Cursos-Conferentes-a-Grau/_layouts/15/UMinho.PortalUM.UI/Pages/CatalogoCursoDetail.aspx?itemId=4549&catId=14)
+- Bioinformatics Laboratories 2023/2024 - [Master in Bioinformatics - University of Minho](https://www.uminho.pt/EN/education/educational-offer/Cursos-Conferentes-a-Grau/_layouts/15/UMinho.PortalUM.UI/Pages/CatalogoCursoDetail.aspx?itemId=4549&catId=14)
   - ...
 
 - Bioinformatics 2023/2024 - [Integrated Master in Biomedical Engineering - University of Minho](https://www.uminho.pt/EN/education/educational-offer/Cursos-Conferentes-a-Grau/_layouts/15/UMinho.PortalUM.UI/Pages/CatalogoCursoDetail.aspx?itemId=4539&catId=14)
