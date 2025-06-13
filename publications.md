@@ -6,6 +6,8 @@ subtitle:
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=JhT55LQAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Joao-Correia-70).
 
+# Publications in Peer-Reviewed Journals and Conferences
+
 Last updated: 6th of June 2025
 
 ## 2024
@@ -78,3 +80,16 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-
 |-----------|-------|----------------|-------------------------------------------------------------------|
 | Citations | {{ site.data.citations_scopus["10.1007/978-3-030-23873-5_20"] }}      | 4              | {{ site.data.citations_scholar["10.1007/978-3-030-23873-5_20"] }} |
 
+
+# Oral Presentations
+
+1.  **Correia, J.**, Pereira, V., & Rocha, M. (2023). Combining evolutionary algorithms with reaction rules towards focused molecular design.
+    Talk presented at the Genetic and Evolutionary Computation Conference (GECCO) 2023 (Remote), Lisbon, July 15-19 2023
+2.  **Correia, J.**, Capela, J., Pereira, V., & Rocha, M. (2023). [DeepMol: a python-based machine and deep learning framework for drug discovery](/assets/docs/Poster_DeepMol_BOD_2023.jpg).
+    Poster presented at the XII Bioinformatics Open Days (BOD 2023), University of Minho, Braga, Portugal, March 16-18 2023
+3.  **Correia, J.**, Carreira, R., Pereira, V., & Rocha, M. (2022). Predicting the number of biochemical transformations needed to synthesize a compound.
+    Talk presented at the International Joint Conference on Neural Networks, IJCNN 2022, Padua, Italy, July 18-23, 2022
+4.  **Correia, J.**, Resende, T., Baptista, D., & Rocha, M. (2020). Artificial intelligence in biological activity prediction.
+    Talk presented at the Practical Applications of Computational Biology and Bioinformatics (PACBB 2019), 13th International Conference, Ávila, Spain, June 26-28 2019
+5.  **Correia, J.**, & Rocha, M. (2019). Development of machine learning-based tools for the selection and design of chemical compounds
+    Invited talk presented at the Data Science Portugal meeting #64, University of Minho, Braga, Portugal, November 21 2019
