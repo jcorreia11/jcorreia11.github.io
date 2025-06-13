@@ -84,12 +84,12 @@ Sousa, T., **Correia, J.**, Pereira, V., & Rocha, M. (2021a). **Combining multi-
 # Oral Presentations
 
 1.  **Correia, J.**, Pereira, V., & Rocha, M. (2023). Combining evolutionary algorithms with reaction rules towards focused molecular design.
-    Talk presented at the Genetic and Evolutionary Computation Conference (GECCO) 2023 (Remote), Lisbon, July 15-19 2023
-2.  **Correia, J.**, Capela, J., Pereira, V., & Rocha, M. (2023). [DeepMol: a python-based machine and deep learning framework for drug discovery](/assets/docs/Poster_DeepMol_BOD_2023.jpg).
-    Poster presented at the XII Bioinformatics Open Days (BOD 2023), University of Minho, Braga, Portugal, March 16-18 2023
+    [Talk presented at the Genetic and Evolutionary Computation Conference (GECCO) 2023 (Remote), Lisbon, July 15-19 2023](/assets/docs/presentations/Gecco-Presentation-ReactEA.pdf)
+2.  **Correia, J.**, Capela, J., Pereira, V., & Rocha, M. (2023). DeepMol: a python-based machine and deep learning framework for drug discovery.
+    [Poster presented at the XII Bioinformatics Open Days (BOD 2023), University of Minho, Braga, Portugal, March 16-18 2023](/assets/docs/presentations/JoaoCorreia_Poster39.pptx.jpg)
 3.  **Correia, J.**, Carreira, R., Pereira, V., & Rocha, M. (2022). Predicting the number of biochemical transformations needed to synthesize a compound.
-    Talk presented at the International Joint Conference on Neural Networks, IJCNN 2022, Padua, Italy, July 18-23, 2022
+    [Talk presented at the International Joint Conference on Neural Networks, IJCNN 2022, Padua, Italy, July 18-23, 2022](/assets/docs/presentations/IJCNN_Presentation.pdf)
 4.  **Correia, J.**, Resende, T., Baptista, D., & Rocha, M. (2020). Artificial intelligence in biological activity prediction.
-    Talk presented at the Practical Applications of Computational Biology and Bioinformatics (PACBB 2019), 13th International Conference, Ávila, Spain, June 26-28 2019
+    [Talk presented at the Practical Applications of Computational Biology and Bioinformatics (PACBB 2019), 13th International Conference, Ávila, Spain, June 26-28 2019](/assets/docs/presentations/PACBB.pdf)
 5.  **Correia, J.**, & Rocha, M. (2019). Development of machine learning-based tools for the selection and design of chemical compounds
-    Invited talk presented at the Data Science Portugal meeting #64, University of Minho, Braga, Portugal, November 21 2019
+    [Invited talk presented at the Data Science Portugal meeting #64, University of Minho, Braga, Portugal, November 21 2019](/assets/docs/presentations/DSPT_presentation_JoaoCorreia.pdf)
