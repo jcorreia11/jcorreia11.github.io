@@ -14,7 +14,7 @@ subtitle: Here you can find some of the projects I have been involved in.
 
 %Funding Entity: Portugal 2030 - Fundo Europeu de Desenvolvimento Regional (FEDER)
 
-%Funding: €1.718.561,18 / €1.382.482,14
+%Funding: €1.382.482,14 / €1.718.561,18 
 
 %Coodinator: OmniumAI Lda
 
@@ -63,7 +63,7 @@ subtitle: Here you can find some of the projects I have been involved in.
   
 ### 2. Green Computing - Optimization of AutoML Processes
 
-- Duration: 01/01/2023 - 25/15/2025
+- Duration: 01/01/2023 - 25/05/2025
 - Roles: Writing the project proposal, Project Coordinator, Researcher
 - Fields of Study: Artificial Intelligence, Machine Learning, Green Computing
 - Partners: OmniumAI Lda
@@ -73,22 +73,7 @@ subtitle: Here you can find some of the projects I have been involved in.
   - ...
   - ...
 
-### 3. SHIKIFACTORY100: Modular cell factories for the production of 100 compounds from the shikimate pathway
-
-- Duration: 01/01/2019 - 30/06/2023
-- DOI: [10.3030/814408](https://cordis.europa.eu/project/id/814408)
-- Roles: Researcher (Research Fellow - 02/2019 - 01/2020)
-- Fields of Study: Synthetic Biology, Systems Biology, Cheminformatics
-- Partners: 6 research partners, 4 biotech SMEs, 1 industrial company
-- Project Website: [https://www.shikifactory100.eu/](https://www.shikifactory100.eu/)
-- Funding Entity: European Union's Horizon 2020 grant agreement No 814408
-- Funding: €7.997.537,51
-- Coodinator: SilicoLife Lda
-- Highlights:
-  - ...
-  - ...
-
-### 4. DeepRetro: a computational framework for retrosynthesis and pathway design towards optimizing compound bioproduction
+### 3. DeepRetro: a computational framework for retrosynthesis and pathway design towards optimizing compound bioproduction
 
 - Duration: 01/02/2020 - 31/03/2024
 - DOI: [10.54499/SFRH/BD/144314/2019](https://doi.org/10.54499/SFRH/BD/144314/2019)
@@ -98,4 +83,19 @@ subtitle: Here you can find some of the projects I have been involved in.
 - Funding Entity: Fundação para a Ciência e Tecnologia (FCT) - Portugal
 - Funding: €68.715,72
 - Highlights:
+  - ...
+  - 
+### 4. SHIKIFACTORY100: Modular cell factories for the production of 100 compounds from the shikimate pathway
+
+- Duration: 01/01/2019 - 30/06/2023
+- DOI: [10.3030/814408](https://cordis.europa.eu/project/id/814408)
+- Roles: Researcher (Research Fellow - 02/2019 - 01/2020)
+- Fields of Study: Artificial Intelligence, Synthetic Biology, Systems Biology, Cheminformatics
+- Partners: 6 research partners, 4 biotech SMEs, 1 industrial company
+- Project Website: [https://www.shikifactory100.eu/](https://www.shikifactory100.eu/)
+- Funding Entity: European Union's Horizon 2020 grant agreement No 814408
+- Funding: €7.997.537,51
+- Coodinator: SilicoLife Lda
+- Highlights:
+  - ...
   - ...
