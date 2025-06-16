@@ -30,7 +30,7 @@ OmniumAI is focused on developing AI solutions for the life sciences, particular
 
 ### Appointments
 
-- [Member of the Coordination Committee for the B.Sc. in Applied Data Science](assets/files/LCDA_%20Nomeação_Comissão_de_Coordenacao.pdf) - Catholic University of Portugal in Braga (03/2025 - Present)
+- [Member of the Coordination Committee for the B.Sc. in Applied Data Science](assets/files/LCDA_Nomeacao_Comissao_de_Coordenacao.pdf) - Catholic University of Portugal in Braga (03/2025 - Present)
 
 ### Industry Experience
 
