@@ -1,0 +1,16 @@
+[project]
+name = "jcorreia11-github-io-utils"
+version = "0.1.0"
+description = "Utility scripts to fetch citation counts for the personal website"
+requires-python = ">=3.10"
+dependencies = [
+    "bibtexparser<2",
+    "pandas==2.2.3",
+    "pybliometrics==4.2.1",
+    "python-dotenv==1.1.0",
+    "requests",
+    "scholarly==1.7.11",
+]
+
+[tool.uv]
+package = false
