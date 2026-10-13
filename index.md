@@ -46,7 +46,7 @@ João Correia is an Assistant Professor at the [Faculty of Engineering of the Un
 
 ### Co-supervision
 
-- *Prediction of strain-level phage-host specificity in Klebsiella pneumoniae using hyperbolic network embeddings*, Carina Ferreira, M.Sc. in Bioinformatics, University of Minho (2026–2027, ongoing)
+- *Generative Antimicrobial Peptide Design via Quality-Diversity Optimization*, Carina Ferreira, M.Sc. in Bioinformatics, University of Minho (2026–2027, ongoing)
 - *Multiobjective optimization of chemical compounds with generative artificial intelligence with applications in the food industry*, Catarina Gomes, M.Sc. in Bioinformatics, University of Minho (2025–present, ongoing)
 - *A machine learning-based approach to improving CD4 T-cell epitope immunogenicity prediction*, Carolina Madaleno, M.Sc. in Data Science and Engineering, University of Porto (2025–2026)
 - *Enhancing explainability in machine and deep learning models for molecular activity prediction*, Ricardo Oliveira, M.Sc. in Bioinformatics, University of Minho (2024–2025)
